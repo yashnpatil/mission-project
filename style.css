@@ -1,0 +1,95 @@
+#login{
+    background-image: url(assets/bg.jpg);
+    background-size: cover;
+    width: 100%;
+    padding-bottom: 120px;
+    background-position: center;   
+}
+nav{
+    position: sticky;
+}
+.nav-link{
+    color: black;
+    margin: 5px;
+}
+.nav-link:hover{
+    font-weight: bold;
+}
+#left-side{
+    height: 656px;
+}
+#title{
+    color: aliceblue;
+    margin-top: 150px;
+}
+h1{
+    margin-top: 70%;
+    text-align: center;
+    font-family: Alegreya Sans SC;
+    
+}
+h4{
+    font-family: Alegreya Sans SC;
+    color:aliceblue;
+    
+    
+}
+#form{
+    margin-top: 10%;
+    background-color: silver;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* #register{
+    margin-left:90%;
+    margin-top: 7%;
+    padding: 15px;   
+} */
+#our-services{
+    height: 250px;
+    background-color: whitesmoke;
+    margin-top: 5%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 10%;
+}
+.star{
+    color: red;
+}
+#reg-form{
+    background-color: whitesmoke;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 50px;
+    margin-bottom: 10%;
+}
+button a{
+    color: white;
+}
+button a:hover{
+    color: white;
+}
+#vespa{
+    margin-top: 25%;
+}
+#after-login{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 40px;
+    padding: 10px;
+}
+#contact{
+    background-color: #3D3C3A;
+}
+#map-responsive{
+    height: 400px;
+    width: 100%;
+}
+#contact-logo i{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
